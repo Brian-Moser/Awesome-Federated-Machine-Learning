@@ -4253,6 +4253,11 @@ From Economic and Game Theoretic Perspective</a></td>
         <td class=xl6519452 align="center"><a href="https://github.com/FederatedAI/FedVision">code</a></td>
     </tr>
     <tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2404.17670">Federated Learning for Blind Image Super-Resolution</a></td>
+        <td class=xl6519452 align="center">ICONIP 2024 (DFKI)</td>
+        <td class=xl6519452 align="center"></td>
+    </tr>
+    <tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
     	<td class=xl6519452></td>
     	<td class=xl6519452></td>
